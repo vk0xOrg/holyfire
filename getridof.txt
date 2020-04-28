@@ -7,3 +7,4 @@
 0.0.0.0 recreativ.ru
 0.0.0.0 v-biz.com.ua #рекламная тизерная сеть
 0.0.0.0 adline.kiev.ua
+0.0.0.0 softcube.com
