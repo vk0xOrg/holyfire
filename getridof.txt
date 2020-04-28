@@ -1,0 +1,8 @@
+# Title: List of domains to be blocked by pi-hole
+# Author: Vasia 'His Majesty' Korobok
+# Created: based on own experience
+
+0.0.0.0 adtelligent.com
+0.0.0.0 trafmag.com
+0.0.0.0 recreativ.ru
+0.0.0.0 v-biz.com.ua #рекламная тизерная сеть
