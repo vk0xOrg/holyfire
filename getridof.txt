@@ -8,3 +8,7 @@
 0.0.0.0 v-biz.com.ua #рекламная тизерная сеть
 0.0.0.0 adline.kiev.ua
 0.0.0.0 softcube.com
+
+# some more bad stuff; upd May 12,2020
+0.0.0.0 adbetnet.com
+0.0.0.0 braun634.com 
