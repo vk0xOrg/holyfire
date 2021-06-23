@@ -15,7 +15,6 @@
 
 # upd May 16,2020
 0.0.0.0 adskeeper.co.uk
-0.0.0.0 *.adskeeper.co.uk
 
 # new shit to block May 10, 2021
 0.0.0.0 quqizo.com
