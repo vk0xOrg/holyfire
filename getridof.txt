@@ -19,3 +19,13 @@
 
 # new shit to block May 10, 2021
 0.0.0.0 quqizo.com
+
+# betting sucks, making poor people poorer
+# upd Jun 23, 2021
+0.0.0.0 adpool.bet
+0.0.0.0 holder.com.ua
+0.0.0.0 admixer.net
+0.0.0.0 gemius.pl
+0.0.0.0 ill.in.ua
+0.0.0.0 mediatraffic.com.ua
+0.0.0.0 ggpht.com
