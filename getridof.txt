@@ -28,3 +28,12 @@
 0.0.0.0 ill.in.ua
 0.0.0.0 mediatraffic.com.ua
 0.0.0.0 ggpht.com
+
+#contining Jun 24, 2021
+0.0.0.0 ua-1x-bet.com
+0.0.0.0 .*.ua-1x-bet.com
+0.0.0.0 trafficdok.com
+0.0.0.0 .*.trafficdok.com
+0.0.0.0 h.holder.com.ua
+0.0.0.0 i.holder.com.ua
+0.0.0.0 .*.holder.com.ua
