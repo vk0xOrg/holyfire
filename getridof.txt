@@ -38,3 +38,8 @@
 # one more betting shit arose
 0.0.0.0 vbetua.com
 0.0.0.0 melbet-0000208.top
+#looks like `melbet` melbetting a lot )
+0.0.0.0 melbet001.com
+0.0.0.0 betsson.com
+0.0.0.0 smartbettingguide.com
+0.0.0.0 melbet-partners.com
