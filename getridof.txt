@@ -34,3 +34,6 @@
 0.0.0.0 trafficdok.com
 0.0.0.0 h.holder.com.ua
 0.0.0.0 i.holder.com.ua
+
+# one more betting shit arose
+0.0.0.0 vbetua.com
