@@ -37,3 +37,4 @@
 
 # one more betting shit arose
 0.0.0.0 vbetua.com
+0.0.0.0 melbet-0000208.top
